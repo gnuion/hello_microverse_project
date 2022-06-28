@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-To clone this project use `git clone`.
+To clone this project use `git clone git@github.com:gnuion/hello_microverse_project.git`.
 
 ## Authors
 
